@@ -1,7 +1,7 @@
 # Collaborative usage
 
 <p align="center">
-    <img src=".../assets/icons/vrc.png" alt="Collab" width="50"/>
+    <img src="../assets/icons/vrc.png" alt="Collab" width="50"/>
 </p>
 
 THOTH allows for collaborative sessions, where multiple users can cooperate on the same scene. 
