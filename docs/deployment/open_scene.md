@@ -8,7 +8,7 @@ To open a scene using the THOTH web app, open the following url on your web brow
 
 where `base_url` is the base thoth uri and `scene_url` the uri of the scene. The default `base url` is [`http://localhost:8080`](http://localhost:8080). The `scene-uri` includes the user path. For  example, a scene id We use for testing is [`http://localhost:8080/a/thoth_v2/?s=samples/venus`](http://localhost:8080/a/thoth_v2/?s=samples/venus)
 
-On success, this is what a loaded page should look like:
+On success, this is what a loaded page should look like this:
 
 <p align="center">
     <img src="../../assets/thoth_screenshot.png" alt="Scene Screenshot" width="800"/>
