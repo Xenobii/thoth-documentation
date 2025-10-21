@@ -11,7 +11,7 @@ where `base_url` is the base thoth uri and `scene_url` the uri of the scene. The
 On success, this is what a loaded page should look like:
 
 <p align="center">
-    <img src="../assets/thoth_screenshot.png" alt="Scene Screenshot" width="800"/>
+    <img src="../../assets/thoth_screenshot.png" alt="Scene Screenshot" width="800"/>
 </p>
 
 You can create a scene from the ATON front end (shu) or through a post request through the [ATON REST API](../api/rest.md).

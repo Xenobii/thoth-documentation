@@ -1,7 +1,7 @@
 # Viewpoints
 
 <p align="center">
-    <img src="../assets/icons/nav.png" alt="viewpoints" width="50"/>
+    <img src="../../assets/icons/nav.png" alt="viewpoints" width="50"/>
 </p>
 
 THOTH allows you to view the source images from which the 3D object was reconstructed. 
