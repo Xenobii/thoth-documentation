@@ -1,6 +1,8 @@
 # Layers
 
-![new-layer-icon](../assets/icons/layers.png)
+<p align="center">
+    <img src="/assets/icons/layers.png" alt="Layers" width="50"/>
+</p>
 
 ## Layer Overview
 
@@ -23,7 +25,9 @@ The user can create new layers, as well as modify and delete existing layers. Th
 
 From the layer panel, a new layer can be created by pressing the Create New Layer button.
 
-![new-layer-icon](../assets/icons/add.png)
+<p align="center">
+    <img src="/assets/icons/add.png" alt="Add Layer" width="50"/>
+</p>
 
 This will automatically assign an id to the new layer as well as a default name and color. 
 
