@@ -15,7 +15,7 @@ When a tool is used with the right mouse button, any faces that would be added t
 
 ## Tools
 
-### <img src="/assets/icons/brush.png" alt="brush" width="20" style="vertical-align:middle; margin-right:6px;"> **Brush**
+### <img src=".../assets/icons/brush.png" alt="brush" width="20" style="vertical-align:middle; margin-right:6px;"> **Brush**
 
 Allows the user to paint directly onto 3D surfaces within the scene by holding down. Press the brush button on the tools panel or use the keyboard shortcut B.
 
@@ -23,7 +23,7 @@ Allows the user to paint directly onto 3D surfaces within the scene by holding d
 
 * **Size**: Adjusts the size of the selection.
 
-### <img src="/assets/icons/eraser.png" alt="eraser" width="20" style="vertical-align:middle; margin-right:6px;"> **Eraser**
+### <img src=".../assets/icons/eraser.png" alt="eraser" width="20" style="vertical-align:middle; margin-right:6px;"> **Eraser**
 
 Allows the user to erase directly from 3D surfaces within the scene. Press the eraser button on the tools panel or use the keyboard shortcut E.
 
@@ -31,7 +31,7 @@ Allows the user to erase directly from 3D surfaces within the scene. Press the e
 
 * **Size**: Adjusts the size of the selection.
 
-### <img src="/assets/icons/lasso.png" alt="lasso" width="20" style="vertical-align:middle; margin-right:6px;"> **Lasso**
+### <img src=".../assets/icons/lasso.png" alt="lasso" width="20" style="vertical-align:middle; margin-right:6px;"> **Lasso**
 
 Allows the user to form a free-hand selection onto the screen, from which a selection will be formed on the object. Press the lasso button on the tools panel or use the keyboard shortcut L.
 
