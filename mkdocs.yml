@@ -1,15 +1,15 @@
 # Site information
-site_name: THOTH Documentation Test
+site_name: THOTH Documentation
 site_url: https://sitename.example
 site_author: Stelios Alvanos
 site_description: THOTH Documentation
 
 # Copyright
-# copyright: Copyright &copy; 2025 Stelios Alvanos
+copyright: Copyright &copy; 2025 TEXTaiLES
 
 # Repository
 repo_name: thoth-documentation-test
-repo_url: https://github.com/Xenobii/thoth-documentation-test
+repo_url: https://github.com/TEXTaiLES/thoth-documentation
 
 # Config
 theme:
