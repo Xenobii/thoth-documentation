@@ -8,7 +8,7 @@ site_description: THOTH Documentation
 copyright: Copyright &copy; 2025 TEXTaiLES
 
 # Repository
-repo_name: thoth-documentation-test
+repo_name: thoth-documentation
 repo_url: https://github.com/TEXTaiLES/thoth-documentation
 
 # Config
@@ -16,7 +16,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: grey
+    primary: deep purple
   logo: assets/thoth-logo.png
   favicon: assets/thoth-logo.png
 
@@ -24,10 +24,12 @@ theme:
 extra:
   social: 
     - icon: fontawesome/brands/github
-      link: https://github.com/Xenobii
+      link: https://github.com/TEXTaiLES
 
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
 
 # Page
 nav:
