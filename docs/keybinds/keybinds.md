@@ -12,6 +12,24 @@ L|<img src="../../assets/icons/lasso.png" alt="lasso" width="20" style="vertical
 \[|Decrease tool size
 \]|Increase tool size
 
+## Layers
+Key|Event
+:---|:---
+Shift+N|Create new layer
+Shift+S|Edit the scene metadata
+0,1...,9|Select layer 0,1,...,9
+Shift+0,1...,9|Edit metadata for layer 0,1,...,9
+
+## Models
+Key|Event
+:---|:---
+Shift+A|Add new model
+
+## Export
+Key|Event
+:---|:---
+Shift+E|Export changes
+
 ## History
 
 Key|Event

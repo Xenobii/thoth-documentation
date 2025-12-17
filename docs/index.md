@@ -1,7 +1,7 @@
 # THOTH DOCUMENTATION PORTAL
 
 <p align="center">
-    <a href = "https://github.com/Xenobii/thoth_v2" target="_blank">
+    <a href = "https://github.com/TEXTaiLES/thoth" target="_blank">
         <img src="assets/thoth-logo.png" alt="THOTH" width="250"/>
     </a>
 </p>

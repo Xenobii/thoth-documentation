@@ -16,7 +16,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: deep purple
+    primary: white
   logo: assets/thoth-logo.png
   favicon: assets/thoth-logo.png
 
@@ -24,7 +24,7 @@ theme:
 extra:
   social: 
     - icon: fontawesome/brands/github
-      link: https://github.com/TEXTaiLES
+      link: https://github.com/TEXTaiLES/thoth
 
 extra_css:
   - stylesheets/extra.css
@@ -33,18 +33,30 @@ extra_javascript:
 
 # Page
 nav:
-  - Deployment: 
-    - Basic Installation: deployment/installation_basic.md
-    - Advanced Installation: deployment/installation_advanced.md
-    - Opening a scene with THOTH: deployment/open_scene.md
-  - Manual:
-    - User Interface: manual/ui.md
-    - Tools: manual/tools.md
-    - Layers: manual/layers.md
-    - History: manual/history.md
-    - Keybinds: manual/keybinds.md
-    - Collaborative: manual/collab.md
+  - Deployment:
+
+    - Basic Installation        : deployment/installation_basic.md
+    - Advanced Installation     : deployment/installation_advanced.md
+    - Deploy with Docker        : deployment/docker.md
+
+  - Scene:
+
+    - Opening a scene with THOTH: scene/open_scene.md
+    - Logging in                : scene/login.md
+    - Collaborative             : scene/collab.md
+    
+  - User Manual:
+
+    - User Interface   : manual/ui.md
+    - Tools            : manual/tools.md
+    - Layers           : manual/layers.md
+    - Models           : manual/models.md
+    - Metadata         : manual/metadata.md
+    - History          : manual/history.md
     - Exporting changes: manual/export.md
-  - API:
-    - Events: api/events.md
-    - REST API: api/rest.md
+
+  - Keybinds: keybinds/keybinds.md
+
+  # - API:
+  #   - Events: api/events.md
+  #   - REST API: api/rest.md

@@ -12,19 +12,15 @@ The settings panel allows for general utility changes, like changing the UI them
 
 <img src="../../assets/icons/layers.png" alt="layers" width="20" style="vertical-align:middle; margin-right:6px;"> **Layers**
 
-Through the layer panel you can access the object and layer controllers. This way you can edit both the metadata and the viusal details of each annotation layer. For more information on layers, refer to the [layers section](../manual/layers.md).
+Through the layer panel you can access the scene layer and other layer controllers. This way you can edit both the metadata and the visual details of each annotation layer. For more information on layers, refer to the [layers section](../manual/layers.md) and the [scene layer section](../manual/scene_layer.md).
+
+<img src="../../assets/icons/models.png" alt="models" width="20" style="vertical-align:middle; margin-right:6px;"> **Models**
+
+Through the model panel you can access each scene model controller. This way you can apply transformations and access other utilities regarding the scene models. For more information on layers, refer to the [models section](../manual/models.md)
 
 <img src="../../assets/icons/link.png" alt="export" width="20" style="vertical-align:middle; margin-right:6px;"> **Export**
 
-The export button export any changes done to the scene directly to the scene descriptor. For more information on exporting, refer to the [export section](../manual/export.md).
-
-<img src="../../assets/icons/user.png" alt="user" width="20" style="vertical-align:middle; margin-right:6px;"> **User**
-
-The user button allows you to login as an existing user.  
-
-<img src="../../assets/icons/vrc.png" alt="collab" width="20" style="vertical-align:middle; margin-right:6px;"> **Collaborative Scene**
-
-By pressing the collaborative scene button, you can join the scene in a collaborative environment. This allows for multi-user sessions, where users can interact with annotations simultaineously. For more information on collaborative sessions, refer to the [collaborative section](../manual/collab.md).
+The export button exports any changes done to the scene directly to the scene descriptor. For more information on exporting, refer to the [export section](../manual/export.md).
 
 ## Main Tools
 
